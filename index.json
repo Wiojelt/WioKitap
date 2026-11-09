@@ -1,10 +1,10 @@
 {
-  "name": "WioKitap & WioManga",
-  "id": "wiokitap",
-  "version": 1,
-  "description": "Wiojelt Türkçe Manga, E-Kitap ve Hafif Roman Kaynak Havuzu",
-  "author": "Wiojelt",
-  "website": "https://github.com/Wiojelt/WioKitap",
+  "name": "WioKitap",
+  "description": "MegaWio Türkçe Manga, Webtoon, E-Kitap ve Web Novel Deposu · @wiojelt",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/plugins.json"
+  ],
   "plugins": [
     {
       "id": "ekitaplar",
@@ -57,6 +57,32 @@
       "fileSize": 4849,
       "fileHash": "sha256-b4819b2eb9ff045e3790db1be9ed52ec29625b6510be8ca9716bd4ae258c15ee",
       "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/ragnarscans.js"
+    },
+    {
+      "id": "tortugaceviri",
+      "name": "Tortuga Çeviri",
+      "version": "1.0.0",
+      "lang": "tr",
+      "type": "manga",
+      "site": "https://tortugaceviri.com/",
+      "description": "En popüler Türkçe manga, manhwa ve webtoon arşivi (One Piece, Berserk, Kingdom) · @wiojelt",
+      "file": "tortugaceviri.js",
+      "fileSize": 4049,
+      "fileHash": "sha256-0e7bd66d0c122cf812337bd12a41252a5bcfa92bdf6fc478740f83d15d4ce629",
+      "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/tortugaceviri.js"
+    },
+    {
+      "id": "epiknovel",
+      "name": "Epik Novel",
+      "version": "1.0.0",
+      "lang": "tr",
+      "type": "novel",
+      "site": "https://www.epiknovel.com/",
+      "description": "Türkiye'nin en geniş web novel ve light novel arşivi (Solo Leveling, Against The God) · @wiojelt",
+      "file": "epiknovel.js",
+      "fileSize": 3884,
+      "fileHash": "sha256-e316560c0c6d2dd4905705b183e8746616c26a911c4ec1d89e298d3f7d70abac",
+      "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/epiknovel.js"
     }
   ]
 }
