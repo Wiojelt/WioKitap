@@ -76,5 +76,18 @@
     "fileSize": 3884,
     "fileHash": "sha256-e316560c0c6d2dd4905705b183e8746616c26a911c4ec1d89e298d3f7d70abac",
     "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/epiknovel.js"
+  },
+  {
+    "id": "uzaymanga",
+    "name": "Uzay Manga",
+    "version": "1.0.0",
+    "lang": "tr",
+    "type": "manga",
+    "site": "https://uzaymanga.com/",
+    "description": "Güncel Türkçe webtoon, manhua ve manga arşivi (Solo Leveling, İskeletleri Canlandırabilirim) · @wiojelt",
+    "file": "uzaymanga.js",
+    "fileSize": 4316,
+    "fileHash": "sha256-aaf950f7e7d5aad0e0d64195d19ba94a8ad726792cd5bc674456dda365bb2842",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/uzaymanga.js"
   }
 ]
