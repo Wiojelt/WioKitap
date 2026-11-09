@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ekitaplar",
+    "name": "E-KİTAPLAR",
+    "version": "2.2.0",
+    "lang": "tr",
+    "type": "novel",
+    "site": "https://e-kitaplar.com/",
+    "description": "Türkiye e-kitap ve hafif roman arşivi · @wiojelt",
+    "file": "ekitaplar.js",
+    "fileSize": 4437,
+    "fileHash": "sha256-8ab2ff00aae46085394ce7cf19a17a4e41ad4b8cdabcce1d938528afea16c7fa",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/ekitaplar.js"
+  },
+  {
+    "id": "webnoveloku",
+    "name": "WebNovelOku",
+    "version": "2.2.0",
+    "lang": "tr",
+    "type": "novel",
+    "site": "https://www.webnoveloku.com/",
+    "description": "Türkçe çeviri web romanları, wuxia ve xianxia kataloğu · @wiojelt",
+    "file": "webnoveloku.js",
+    "fileSize": 13517,
+    "fileHash": "sha256-f09395194f5ec292f1b07c70b573c7b708b624b0f08542f08027862555ec4162",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/webnoveloku.js"
+  },
+  {
+    "id": "penguinsquad",
+    "name": "Penguin Squad",
+    "version": "1.2.0",
+    "lang": "tr",
+    "type": "manga",
+    "site": "https://penguin-squad.com",
+    "description": "Türkçe webtoon ve manga serileri (Supabase Hızlı API) · @wiojelt",
+    "file": "penguinsquad.js",
+    "fileSize": 4516,
+    "fileHash": "sha256-8b1318864ca33fd27743a6dd914c4dcddfc6daad49a10c959de07bde1f1361e9",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/penguinsquad.js"
+  },
+  {
+    "id": "ragnarscans",
+    "name": "Ragnar Scans",
+    "version": "2.2.0",
+    "lang": "tr",
+    "type": "manga",
+    "site": "https://ragnarscans.net/",
+    "description": "Güncel Türkçe manhwa ve manga serileri · @wiojelt",
+    "file": "ragnarscans.js",
+    "fileSize": 4849,
+    "fileHash": "sha256-b4819b2eb9ff045e3790db1be9ed52ec29625b6510be8ca9716bd4ae258c15ee",
+    "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/ragnarscans.js"
+  }
+]
