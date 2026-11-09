@@ -97,6 +97,19 @@
       "fileSize": 4316,
       "fileHash": "sha256-aaf950f7e7d5aad0e0d64195d19ba94a8ad726792cd5bc674456dda365bb2842",
       "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/uzaymanga.js"
+    },
+    {
+      "id": "turkcemanga",
+      "name": "Türkçe Manga",
+      "version": "1.0.0",
+      "lang": "tr",
+      "type": "manga",
+      "site": "https://turkcemanga.com/",
+      "description": "Klasik ve güncel Türkçe webtoon, manhwa ve manga okuma platformu · @wiojelt",
+      "file": "turkcemanga.js",
+      "fileSize": 4620,
+      "fileHash": "sha256-47f68ceaa3f2af879a21d6dd1d0c8b732c89345a1e966d411529cf4ccb8cd40d",
+      "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/turkcemanga.js"
     }
   ]
 }
