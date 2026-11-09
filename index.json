@@ -84,5 +84,6 @@
       "fileHash": "sha256-e316560c0c6d2dd4905705b183e8746616c26a911c4ec1d89e298d3f7d70abac",
       "url": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/epiknovel.js"
     }
-  ]
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioKitap/main/assets/logo.png"
 }
